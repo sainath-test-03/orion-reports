@@ -1,0 +1,1 @@
+CREATE TABLE records (id TEXT PRIMARY KEY, tenant TEXT NOT NULL, title TEXT NOT NULL);
